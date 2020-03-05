@@ -1,0 +1,21 @@
+.description {
+  height: 483px;
+
+  background: $background-description;
+}
+
+.description__content {
+  width: 893px;
+  padding: 129px 0;
+  margin: 0 auto;
+}
+
+.description-text {
+  font-style: italic;
+  font-weight: 500;
+  font-size: 48px;
+  line-height: 57px;
+  text-align: center;
+
+  color: $color-white;
+}

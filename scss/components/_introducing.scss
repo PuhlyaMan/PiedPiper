@@ -1,0 +1,33 @@
+.introducing {
+  height: 604px;
+
+  background-color: $color-white;
+}
+
+.introducing__title {
+  padding-top: $padding-top-title;
+  padding-bottom: 14px;
+}
+
+.introducing__content {
+  display: flex;
+  padding-bottom: 35px;
+}
+
+.introducing__image {
+  min-width: 115px;
+  height: 115px;
+
+  background: $background-introducing__image;
+}
+
+.introducing__text {
+  padding-left: 48px;
+  font-size: 32px;
+  line-height: 37px;
+}
+
+.introducing__subtitle {
+  font-size: 32px;
+  line-height: 37px;
+}

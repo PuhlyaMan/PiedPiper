@@ -1,0 +1,9 @@
+.employees {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.employees__item {
+  margin-bottom: 30px;
+}
